@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "learn-RN",
-    "slug": "learn-RN",
+    "slug": "learn-rn",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -29,6 +29,12 @@
     },
     "web": {
       "favicon": "./assets/images/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "84a5770c-3c7d-42bb-aff7-e9a2c5ca1854"
+      }
+    },
+    "owner": "ngodanghai9x"
   }
 }
